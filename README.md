@@ -14,7 +14,12 @@ Open the project in Android Studio and Run.
 ## Examples
 The sample application demonstrates usage of Android Pay and Accept Mobile.
 
-![Android Pay](screenshot1.png?raw=true "Android Pay")  ![Accept Token](screenshot2.png?raw=true "Accept Token")
+![Android Pay](screenshot1.png?raw=true "Android Pay") [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Faccept-sample-android.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Faccept-sample-android?ref=badge_shield)
+ ![Accept Token](screenshot2.png?raw=true "Accept Token")
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Faccept-sample-android.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Faccept-sample-android?ref=badge_large)
